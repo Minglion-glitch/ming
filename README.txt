@@ -43,7 +43,7 @@
 
   运行方式
 
-  cd C:\Users\35421\Desktop\pythonGUI
+  cd aim文档
   python main.py
 
   黑子为玩家（先手），白子为AI。点击棋盘交叉点落子，AI会自动回应。
